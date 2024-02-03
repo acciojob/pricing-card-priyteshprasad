@@ -1,1 +1,18 @@
 /*  your css code here. If applicable */
+button{
+	
+}
+p{
+	
+}
+h1{
+	
+}
+.card{
+	width: 200px;
+	height: 400px;
+	background-color: grey;
+	text-align: center;
+	padding: 30px;
+	justify-content: center;
+}
